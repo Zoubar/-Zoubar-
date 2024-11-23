@@ -4,6 +4,14 @@
 
 ---
 
+
+## 🌟 About Me
+🎯 Passionate about building efficient systems and crafting robust software solutions.  
+🚀 Currently exploring advanced DevOps practices and enhancing full-stack capabilities.  
+📚 Continuously learning and contributing to impactful projects.  
+
+---
+
 ## 🛠️ Tools & Technologies I Work With:
 | **Category**    | **Tools**                                          |
 |------------------|---------------------------------------------------|
@@ -16,11 +24,8 @@
 
 ---
 
-## 🌟 About Me
-🎯 Passionate about building efficient systems and crafting robust software solutions.  
-🚀 Currently exploring advanced DevOps practices and enhancing full-stack capabilities.  
-📚 Continuously learning and contributing to impactful projects.  
-
+## 🚀 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&layout=compact&theme=dark)
 ---
 
 ## 📫 Reach Me At:
