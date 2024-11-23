@@ -1,25 +1,42 @@
-# Hi there 👋, I'm Yassine Zoubairi!  
+# Hi there 👋, I'm **Yassine Zoubairi**  
 
-
-🌍 Based in Morocco | 💻 Passionate about Software and DevOps  
+🌍 **Based in Morocco** | 💻 **Passionate about Software and DevOps**  
 
 ---
 
-### 🛠️ Tools & Technologies I Work With:
+## 🛠️ Tools & Technologies I Work With:
+| **Category**    | **Tools**                                           |
+|------------------|----------------------------------------------------|
+| **Languages**   | Java, JavaScript, TypeScript                       |
+| **Frontend**    | AngularJS, ReactJS                                 |
+| **Backend**     | Spring Boot                                        |
+| **Database**    | SQL                                                |
+| **DevOps**      | Docker, Kubernetes, Kafka, SonarQube               |
+| **Version Control** | Git                                             |
 
-| **Category**         | **Tools**                                                 |
-|----------------------|---------------------------------------------------------- |
-| **Languages**        | Java, JavaScript, TypeScript                              |
-| **Frontend**         | AngularJS , ReactJS                                       |
-| **Backend**          | Spring Boot                                               |
-| **Database**         | SQL                                                       |
-| **DevOps**           | Docker, Kubernetes, Kafka , Sonarqube                     |
-| **VCS   **           | GIT                         
+---
 
+## 🌟 About Me
+🎯 Passionate about building efficient systems and crafting robust software solutions.  
+🚀 Currently exploring advanced DevOps practices and enhancing full-stack capabilities.  
+📚 Continuously learning and contributing to impactful projects.  
 
-📫 **Reach Me At:**  
-- **LinkedIn:** [Yassine Zoubairi](https://www.linkedin.com/in/yassine-zoubairi-390b9b268/)
+---
 
- 📂  [**Portfolio Website**](Coming soon)  
-  A showcase of my projects and skills.
+## 📫 Reach Me At:
+- **LinkedIn:** [Yassine Zoubairi](https://www.linkedin.com/in/yassine-zoubairi-390b9b268/)  
+- 🌐 **Portfolio Website:** Coming Soon  
 
+---
+
+## 📂 Featured Projects
+- 🌟 **Gainz Project:**  
+  A platform designed for services and blogs with advanced analytics.  
+
+- 🌟 **Portfolio Website:**  
+  A showcase of my projects and skills. (Launching Soon!)  
+
+---
+
+## 🌟 Fun Fact
+💡 "Passion drives me, software inspires me, and DevOps keeps me innovating."  
