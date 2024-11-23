@@ -24,6 +24,9 @@
 
 ---
 
+## 📊 GitHub Stats:
+![Yassine Zoubairi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zoubar&show_icons=true&theme=dark)
+
 ## 🚀 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&layout=compact&theme=dark)
 ---
