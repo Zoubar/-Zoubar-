@@ -8,9 +8,9 @@
 ### 🛠️ Tools & Technologies I Work With:
 
 | **Category**         | **Tools**                                                 |
-|----------------------|----------------------------------------------------------|
+|----------------------|---------------------------------------------------------- |
 | **Languages**        | Java, JavaScript, TypeScript                              |
-| **Frontend**         | AngularJS , ReactJS                                         |
+| **Frontend**         | AngularJS , ReactJS                                       |
 | **Backend**          | Spring Boot                                               |
 | **Database**         | SQL                                                       |
 | **DevOps**           | Docker, Kubernetes, Kafka , Sonarqube                     |
