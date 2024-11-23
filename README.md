@@ -5,14 +5,14 @@
 ---
 
 ## 🛠️ Tools & Technologies I Work With:
-| **Category**    | **Tools**                                           |
-|------------------|----------------------------------------------------|
+| **Category**    | **Tools**                                          |
+|------------------|---------------------------------------------------|
 | **Languages**   | Java, JavaScript, TypeScript                       |
 | **Frontend**    | AngularJS, ReactJS                                 |
 | **Backend**     | Spring Boot                                        |
 | **Database**    | SQL                                                |
 | **DevOps**      | Docker, Kubernetes, Kafka, SonarQube               |
-| **Version Control** | Git                                             |
+| **VCS**         | Git                                                |
 
 ---
 
@@ -27,16 +27,5 @@
 - **LinkedIn:** [Yassine Zoubairi](https://www.linkedin.com/in/yassine-zoubairi-390b9b268/)  
 - 🌐 **Portfolio Website:** Coming Soon  
 
----
 
-## 📂 Featured Projects
-- 🌟 **Gainz Project:**  
-  A platform designed for services and blogs with advanced analytics.  
 
-- 🌟 **Portfolio Website:**  
-  A showcase of my projects and skills. (Launching Soon!)  
-
----
-
-## 🌟 Fun Fact
-💡 "Passion drives me, software inspires me, and DevOps keeps me innovating."  
